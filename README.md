@@ -1,4 +1,4 @@
-# FloQast Take-Home — QA Automation Framework
+# Fintech QA Automation Framework
 
 A Playwright + TypeScript test automation framework built against a mock fintech
 system (user accounts + money transfers), covering API tests, UI tests, test
